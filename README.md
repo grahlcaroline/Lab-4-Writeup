@@ -11,11 +11,11 @@ The objective of this lab was to learn more about **Model-View-Controller (MVC)*
 
 ### Design Overview 
 
-![Lab 4 Google Email](Lab4b_01.png)
+![Lab 4 Google Email](Lab4_01.png)
 **Google email**
-![Lab 4 Task Toggle](Lab4b_02.png)
+![Lab 4 Task Toggle](Lab4_02.png)
 **Tasks have different status**
-![Lab 4 Tak Deleted ](Lab4b_03.png)
+![Lab 4 Tak Deleted ](Lab4_03.png)
 **Second task deleted**
 ![UML Diagram 3b - Sequence Diagram for Create](SequenceDiagramCreate.png)
 **Sequence Diagram for Create function**
